@@ -5,6 +5,7 @@ practice problem solving
 ## Big O's
 
 ```O(1)``` Constant - no loops
+
 ```O(log N)``` Logarithmic - usually searching algorithms have log n if they are sorted (Binary Search)
 
 ```O(n)``` Linear - for loops, while loops through n items
@@ -24,9 +25,11 @@ practice problem solving
 ![image](https://github.com/user-attachments/assets/90d4fae3-732f-444c-a1ed-43dee4e52a1d)
 
 
+
+## What Can Cause Time in a Function?
 ---
 
-***
-
-___
-
+- Operations ```(+,-, \*, /)```
+- Comparisons ```(<, >, ===)```
+- Looping ```(for, while)```
+- Outside Function call ```(function())```

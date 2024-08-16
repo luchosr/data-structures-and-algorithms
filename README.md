@@ -27,9 +27,39 @@ practice problem solving
 
 
 ## What Can Cause Time in a Function?
----
 
 - Operations ```(+,-, \*, /)```
 - Comparisons ```(<, >, ===)```
 - Looping ```(for, while)```
 - Outside Function call ```(function())```
+
+## Sorting Algorithms
+
+![image](https://github.com/user-attachments/assets/76ee576c-84d7-4dc3-b38f-8f5cfbea0536)
+
+## Common Data Structure Operations
+
+![image](https://github.com/user-attachments/assets/96bbfc61-d791-42e1-b647-adc07c736ecc)
+
+## Importan Rules
+
+- **Rule 1:** Always worst Case
+
+- **Rule 2:** Remove Constants
+
+- **Rule 3:**
+
+  - Different inputs should have different variables: O(a + b).
+  - A and B arrays nested would be: O(a * b)
++ for steps in order
+
+* for nested steps
+
+- **Rule 4:** Drop Non-dominant terms
+
+  ## What Causes Space Complexity?
+- Variables
+- Data Structures
+- Function Call
+- Allocations
+

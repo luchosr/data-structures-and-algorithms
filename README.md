@@ -49,8 +49,8 @@ practice problem solving
 
 - **Rule 3:**
 
-  - Different inputs should have different variables: O(a + b).
-  - A and B arrays nested would be: O(a * b)
+  - Different inputs should have different variables: ```O(a + b)```.
+  - A and B arrays nested would be: ```O(a * b)```.
 + for steps in order
 
 * for nested steps
